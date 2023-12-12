@@ -1,16 +1,11 @@
 # feeling_better
 
-A new Flutter project.
+This is a simple project made for a cource on my university.
 
-## Getting Started
+<h2>⚡️ Quick Start</h2>
 
-This project is a starting point for a Flutter application.
+- This project was made to help people with depression or just a bad mood.
 
-A few resources to get you started if this is your first Flutter project:
+- It contains suggestions , a Questionnaire with how a person is feeling lately.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](Screenshot_4.png)
